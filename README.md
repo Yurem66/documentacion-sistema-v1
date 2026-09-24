@@ -32,7 +32,7 @@ def verificar_stock(cantidad):
         return "Producto Disponible"
     else:
         return "Sin Stock"
-´´´
+```
 ## 5. Enlaces Útiles
 - [Ver Arquitectura del Sistema](docs/arquitectura.md)
 - [Ver Casos de Uso Hospitalarios](docs/arquitectura/casos-de-uso.md)
