@@ -1,57 +1,30 @@
-<<<<<<< HEAD
-# Sistema de Gestion de Inventario - TechStore
+# Sistema de Gestión de Inventario - TechStore
 
-## 1. Descripcion del Proyecto
+## 1. Descripción del Proyecto
 
-Este es un *sistema de ventas e inventario en tiempo real* optimizado para el control de existencias y facturacion[cite: 1]. Desarrollado exclusivamente para la empresa TechStore, permite *agilizar los procesos comerciales* y garantizar una administracion eficiente[cite: 1].
-
-## 2. Requisitos del Sistema
-
-- [x] Python 3.10 o superior instalado
-- [x] Base de Datos MySQL configurada
-- [ ] Documentacion tecnica completada
-
-## 3. Modulos del Sistema
-
-| Modulo | Descripcion | Estado |
-| :--- | :--- | :--- |
-| Autenticacion | Control de acceso y roles de usuario | Completado |
-| Inventario | Registro y conteo de productos | En Proceso |
-| Facturacion | Generacion de comprobantes de pago | Pendiente |
-
-## 4. Ejemplo de Codigo Fuente
-
-```python
-def verificar_stock(cantidad):
-    if cantidad > 0:
-        return "Producto Disponible"
-    else:
-        return "Sin Stock"
-## 5. Repositos Utilies
-- [Repositorio Oficial en GitHub] (https://github.com)
-
-=======
-# Sistema de Gestion de Inventario - TechStore
-
-## 1. Descripcion del Proyecto
-
-Este es un *sistema de ventas e inventario en tiempo real* optimizado para el control de existencias y facturacion[cite: 1]. Desarrollado exclusivamente para la empresa TechStore, permite *agilizar los procesos comerciales* y garantizar una administracion eficiente[cite: 1].
+El sistema de ventas de TechStore optimiza la gestión de inventario en tiempo real y el procesamiento rápido de pagos. Permite controlar el stock disponible de forma eficiente para garantizar una atención al cliente fluida y automatizada.
 
 ## 2. Requisitos del Sistema
 
+Crea una lista de tareas (checklists) con los siguientes requisitos:
+
 - [x] Python 3.10 o superior instalado
 - [x] Base de Datos MySQL configurada
-- [ ] Documentacion tecnica completada
+- [ ] Documentación técnica completada
 
 ## 3. Módulos del Sistema
 
-| Modulo | Descripcion | Estado |
-| :--- | :--- | :--- |
-| Autenticacion | Control de acceso y roles de usuario | Completado |
-| Inventario | Registro y conteo de productos | En Proceso |
-| Facturacion | Generacion de comprobantes de pago | Pendiente |
+Crea una tabla en Markdown con la siguiente estructura:
 
-## 4. Ejemplo de Codigo Fuente
+| Módulo | Descripción | Estado |
+| :--- | :--- | :--- |
+| Autenticación | Control de acceso y roles de usuario | Completado |
+| Inventario | Registro y conteo de productos | En Proceso |
+| Facturación | Generación de comprobantes de pago | Pendiente |
+
+## 4. Ejemplo de Código Fuente
+
+Inserta un bloque de código en Python formateado adecuadamente que contenga el siguiente algoritmo básico:
 
 ```python
 def verificar_stock(cantidad):
@@ -59,7 +32,15 @@ def verificar_stock(cantidad):
         return "Producto Disponible"
     else:
         return "Sin Stock"
-## 5. Repositos Utilies
-- [Repositorio Oficial en GitHub] (https://github.com)
-
->>>>>>> 121303eeceb556133f2c70495d2efdad2d126280
+´´´
+## 5. Enlaces Útiles
+- [Ver Arquitectura del Sistema](docs/arquitectura.md)
+- [Ver Casos de Uso Hospitalarios](docs/arquitectura/casos-de-uso.md)
+- [Ver Diagrama de Secuencia de Login](docs/arquitectura/secuencia-autenticacion.md)
+- [Ver Arquitectura del Sistema](docs/arquitectura.md)
+- [Ver Manual de Usuario](docs/manual_usuario.md)
+- [Ver Especificación de API](docs/api_endpoints.md)
+- [Ver Guía de Despliegue](docs/despliegue.md)
+- [Ver Políticas de Seguridad](docs/seguridad.md)
+- [Ver Historial de Cambios (CHANGELOG)](CHANGELOG.md)
+- [Repositorio Oficial en GitHub](https://github.com/gaps3600/documentacion-sistema-v1-)
