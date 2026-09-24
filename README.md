@@ -40,7 +40,4 @@ def verificar_stock(cantidad):
 - [Ver Arquitectura del Sistema](docs/arquitectura.md)
 - [Ver Manual de Usuario](docs/manual_usuario.md)
 - [Ver Especificación de API](docs/api_endpoints.md)
-- [Ver Guía de Despliegue](docs/despliegue.md)
-- [Ver Políticas de Seguridad](docs/seguridad.md)
-- [Ver Historial de Cambios (CHANGELOG)](CHANGELOG.md)
 - [Repositorio Oficial en GitHub](https://github.com/gaps3600/documentacion-sistema-v1-)
