@@ -32,7 +32,7 @@ def verificar_stock(cantidad):
         return "Producto Disponible"
     else:
         return "Sin Stock"
-´´´
+```
 ## 5. Enlaces Útiles
 - [Ver Arquitectura del Sistema](docs/arquitectura.md)
 - [Ver Casos de Uso Hospitalarios](docs/arquitectura/casos-de-uso.md)
@@ -44,3 +44,4 @@ def verificar_stock(cantidad):
 - [Ver Políticas de Seguridad](docs/seguridad.md)
 - [Ver Historial de Cambios (CHANGELOG)](CHANGELOG.md)
 - [Repositorio Oficial en GitHub](https://github.com/gaps3600/documentacion-sistema-v1-)
+- 
